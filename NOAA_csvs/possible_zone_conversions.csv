@@ -1,0 +1,216 @@
+State,NOAA_FIP,drop1,NOAA_Zone,drop2,County,FIP,drop3,drop4,Latitude,Longitude
+CA,006,MTR,San Francisco,CA006,San Francisco,06075,P,ww,37.7558,-122.4423
+CA,013,STO,Shasta Lake Area / Northern Shasta County,CA013,Shasta,06089,P,nn,40.9299,-122.2247
+CA,014,STO,Burney Basin / Eastern Shasta County,CA014,Shasta,06089,P,nn,40.9423,-121.4882
+CA,015,STO,Northern Sacramento Valley,CA015,Shasta,06089,P,nn,40.2198,-122.2949
+CA,015,STO,Northern Sacramento Valley,CA015,Tehama,06103,P,nn,40.2198,-122.2949
+CA,016,STO,Central Sacramento Valley,CA016,Butte,06007,P,nn,39.3764,-121.9260
+CA,016,STO,Central Sacramento Valley,CA016,Colusa,06011,P,cc,39.3764,-121.9260
+CA,016,STO,Central Sacramento Valley,CA016,Glenn,06021,P,nn,39.3764,-121.9260
+CA,016,STO,Central Sacramento Valley,CA016,Nevada,06057,P,cc,39.3764,-121.9260
+CA,016,STO,Central Sacramento Valley,CA016,Sutter,06101,P,cc,39.3764,-121.9260
+CA,016,STO,Central Sacramento Valley,CA016,Yuba,06115,P,cc,39.3764,-121.9260
+CA,017,STO,Southern Sacramento Valley,CA017,Amador,06005,P,cc,38.6268,-121.5625
+CA,017,STO,Southern Sacramento Valley,CA017,El Dorado,06017,P,cc,38.6268,-121.5625
+CA,017,STO,Southern Sacramento Valley,CA017,Placer,06061,P,cc,38.6268,-121.5625
+CA,017,STO,Southern Sacramento Valley,CA017,Sacramento,06067,P,cc,38.6268,-121.5625
+CA,017,STO,Southern Sacramento Valley,CA017,Solano,06095,P,ww,38.6268,-121.5625
+CA,017,STO,Southern Sacramento Valley,CA017,Sutter,06101,P,cc,38.6268,-121.5625
+CA,017,STO,Southern Sacramento Valley,CA017,Yolo,06113,P,cc,38.6268,-121.5625
+CA,018,STO,Carquinez Strait and Delta,CA018,Sacramento,06067,P,cc,38.1432,-121.7623
+CA,018,STO,Carquinez Strait and Delta,CA018,San Joaquin,06077,P,cc,38.1432,-121.7623
+CA,018,STO,Carquinez Strait and Delta,CA018,Solano,06095,P,ww,38.1432,-121.7623
+CA,019,STO,Northern San Joaquin Valley,CA019,Amador,06005,P,cc,37.7581,-121.0410
+CA,019,STO,Northern San Joaquin Valley,CA019,Calaveras,06009,P,cc,37.7581,-121.0410
+CA,019,STO,Northern San Joaquin Valley,CA019,San Joaquin,06077,P,cc,37.7581,-121.0410
+CA,019,STO,Northern San Joaquin Valley,CA019,Stanislaus,06099,P,cc,37.7581,-121.0410
+CA,019,STO,Northern San Joaquin Valley,CA019,Tuolumne,06109,P,cc,37.7581,-121.0410
+CA,034,LOX,San Luis Obispo County Central Coast,CA034,San Luis Obispo,06079,P,sw,35.3270,-120.7407
+CA,035,LOX,Santa Barbara County Central Coast,CA035,Santa Barbara,06083,P,sw,34.7217,-120.4263
+CA,036,LOX,Santa Ynez Valley,CA036,Santa Barbara,06083,P,sw,34.6833,-120.0816
+CA,037,LOX,San Luis Obispo County Interior Valleys,CA037,San Luis Obispo,06079,P,sw,35.4918,-120.3516
+CA,038,LOX,Cuyama Valley,CA038,Santa Barbara,06083,P,sw,34.9422,-119.7374
+CA,039,LOX,Santa Barbara County South Coast,CA039,Santa Barbara,06083,P,sw,34.4568,-119.9036
+CA,040,LOX,Ventura County Coast,CA040,Ventura,06111,P,sw,34.2181,-119.1214
+CA,041,LOX,Los Angeles County Coast including Downtown Los Angeles,CA041,Los Angeles,06037,P,sw,33.9281,-118.3004
+CA,043,SGX,San Diego County Coastal Areas,CA043,San Diego,06073,P,sw,32.9783,-117.2367
+CA,044,LOX,Ventura County Interior Valleys,CA044,Ventura,06111,P,sw,34.3941,-119.1198
+CA,045,LOX,Ventura County Coastal Valleys,CA045,Ventura,06111,P,sw,34.2538,-118.8399
+CA,046,LOX,Santa Monica Mountains Recreational Area,CA046,Los Angeles,06037,P,sw,34.0839,-118.6898
+CA,048,SGX,San Bernardino and Riverside County Valleys -The Inland Empire,CA048,Riverside,06065,P,ss,33.8486,-117.2412
+CA,048,SGX,San Bernardino and Riverside County Valleys -The Inland Empire,CA048,San Bernardino,06071,P,ss,33.8486,-117.2412
+CA,050,SGX,San Diego County Valleys,CA050,San Diego,06073,P,sw,33.0047,-116.9604
+CA,051,LOX,San Luis Obispo County Mountains,CA051,San Luis Obispo,06079,P,sw,35.1415,-120.0448
+CA,052,LOX,Santa Barbara County Mountains,CA052,Santa Barbara,06083,P,sw,34.7466,-119.8211
+CA,053,LOX,Ventura County Mountains,CA053,Ventura,06111,P,sw,34.6292,-119.1351
+CA,054,LOX,Los Angeles County Mountains excluding the Santa Monica Range,CA054,Los Angeles,06037,P,sw,34.4294,-118.2230
+CA,055,SGX,San Bernardino County Mountains,CA055,San Bernardino,06071,P,ss,34.2304,-117.0957
+CA,056,SGX,Riverside County Mountains,CA056,Riverside,06065,P,ss,33.6600,-116.6434
+CA,057,SGX,Santa Ana Mountains and Foothills,CA057,Orange,06059,P,sw,33.6256,-117.4550
+CA,057,SGX,Santa Ana Mountains and Foothills,CA057,Riverside,06065,P,ss,33.6256,-117.4550
+CA,057,SGX,Santa Ana Mountains and Foothills,CA057,San Diego,06073,P,sw,33.6256,-117.4550
+CA,058,SGX,San Diego County Mountains,CA058,San Diego,06073,P,sw,33.0713,-116.5324
+CA,059,LOX,Antelope Valley,CA059,Los Angeles,06037,P,sw,34.6664,-118.0679
+CA,060,SGX,Apple and Lucerne Valleys,CA060,San Bernardino,06071,P,ss,34.5427,-117.0143
+CA,061,SGX,Coachella Valley,CA061,Riverside,06065,P,ss,33.7424,-116.3024
+CA,062,SGX,San Diego County Deserts,CA062,San Diego,06073,P,sw,33.0511,-116.2536
+CA,063,STO,Mountains Southwestern Shasta County to Western Colusa County,CA063,Colusa,06011,P,cc,39.8175,-122.7565
+CA,063,STO,Mountains Southwestern Shasta County to Western Colusa County,CA063,Glenn,06021,P,nn,39.8175,-122.7565
+CA,063,STO,Mountains Southwestern Shasta County to Western Colusa County,CA063,Shasta,06089,P,nn,39.8175,-122.7565
+CA,063,STO,Mountains Southwestern Shasta County to Western Colusa County,CA063,Tehama,06103,P,nn,39.8175,-122.7565
+CA,065,SGX,San Gorgonio Pass Near Banning,CA065,Riverside,06065,P,ss,33.7185,-115.2342
+CA,066,STO,Northeast Foothills/Sacramento Valley,CA066,Butte,06007,P,nn,40.1117,-121.7566
+CA,066,STO,Northeast Foothills/Sacramento Valley,CA066,Shasta,06089,P,nn,40.1117,-121.7566
+CA,066,STO,Northeast Foothills/Sacramento Valley,CA066,Tehama,06103,P,nn,40.1117,-121.7566
+CA,067,STO,Motherlode,CA067,Amador,06005,P,cc,38.6192,-120.7698
+CA,067,STO,Motherlode,CA067,Calaveras,06009,P,cc,38.6192,-120.7698
+CA,067,STO,Motherlode,CA067,El Dorado,06017,P,cc,38.6192,-120.7698
+CA,067,STO,Motherlode,CA067,Nevada,06057,P,cc,38.6192,-120.7698
+CA,067,STO,Motherlode,CA067,Placer,06061,P,cc,38.6192,-120.7698
+CA,067,STO,Motherlode,CA067,Tuolumne,06109,P,cc,38.6192,-120.7698
+CA,067,STO,Motherlode,CA067,Yuba,06115,P,cc,38.6192,-120.7698
+CA,068,STO,Western Plumas County/Lassen Park,CA068,Butte,06007,P,nn,40.1971,-121.3501
+CA,068,STO,Western Plumas County/Lassen Park,CA068,Lassen,06035,P,nn,40.1971,-121.3501
+CA,068,STO,Western Plumas County/Lassen Park,CA068,Plumas,06063,P,nn,40.1971,-121.3501
+CA,068,STO,Western Plumas County/Lassen Park,CA068,Shasta,06089,P,nn,40.1971,-121.3501
+CA,068,STO,Western Plumas County/Lassen Park,CA068,Tehama,06103,P,nn,40.1971,-121.3501
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,Alpine,06003,P,cc,38.7829,-120.3423
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,Amador,06005,P,cc,38.7829,-120.3423
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,Calaveras,06009,P,cc,38.7829,-120.3423
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,El Dorado,06017,P,cc,38.7829,-120.3423
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,Nevada,06057,P,cc,38.7829,-120.3423
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,Placer,06061,P,cc,38.7829,-120.3423
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,Sierra,06091,P,nn,38.7829,-120.3423
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,Tuolumne,06109,P,cc,38.7829,-120.3423
+CA,069,STO,West Slope Northern Sierra Nevada,CA069,Yuba,06115,P,cc,38.7829,-120.3423
+CA,070,REV,Surprise Valley California,CA070,Modoc,06049,P,nn,41.6116,-120.0862
+CA,071,REV,Lassen-Eastern Plumas-Eastern Sierra Counties,CA071,Lassen,06035,P,nn,40.4660,-120.5471
+CA,071,REV,Lassen-Eastern Plumas-Eastern Sierra Counties,CA071,Plumas,06063,P,nn,40.4660,-120.5471
+CA,071,REV,Lassen-Eastern Plumas-Eastern Sierra Counties,CA071,Sierra,06091,P,nn,40.4660,-120.5471
+CA,072,REV,Greater Lake Tahoe Area,CA072,Alpine,06003,P,cc,38.9481,-119.9683
+CA,072,REV,Greater Lake Tahoe Area,CA072,El Dorado,06017,P,cc,38.9481,-119.9683
+CA,072,REV,Greater Lake Tahoe Area,CA072,Nevada,06057,P,cc,38.9481,-119.9683
+CA,072,REV,Greater Lake Tahoe Area,CA072,Placer,06061,P,cc,38.9481,-119.9683
+CA,073,REV,Mono,CA073,Mono,06051,P,cc,37.9390,-118.8867
+CA,080,MFR,Western Siskiyou County,CA080,Siskiyou,06093,P,nn,41.5562,-123.1641
+CA,081,MFR,Central Siskiyou County,CA081,Siskiyou,06093,P,nn,41.7362,-122.5631
+CA,082,MFR,South Central Siskiyou County,CA082,Siskiyou,06093,P,nn,41.2704,-122.1846
+CA,083,MFR,North Central and Southeast Siskiyou County,CA083,Siskiyou,06093,P,nn,41.5425,-121.8967
+CA,084,MFR,Northeast Siskiyou and Northwest Modoc Counties,CA084,Modoc,06049,P,nn,41.8639,-121.6371
+CA,084,MFR,Northeast Siskiyou and Northwest Modoc Counties,CA084,Siskiyou,06093,P,nn,41.8639,-121.6371
+CA,085,MFR,Modoc County,CA085,Modoc,06049,P,nn,41.5611,-120.7585
+CA,087,LOX,Catalina Island,CA087,Los Angeles,06037,P,sw,33.3820,-118.4331
+CA,088,LOX,Santa Clarita Valley,CA088,Los Angeles,06037,P,sw,34.4534,-118.5579
+CA,101,EKA,Coastal Del Norte,CA101,Del Norte,06015,P,nw,41.0243,-124.0956
+CA,102,EKA,Del Norte Interior,CA102,Del Norte,06015,P,nw,41.0243,-124.0956
+CA,103,EKA,Northern Humboldt Coast,CA103,Humboldt,06023,P,nw,41.0243,-124.0956
+CA,104,EKA,Southwestern Humboldt,CA104,Humboldt,06023,P,nw,41.0243,-124.0956
+CA,105,EKA,Northern Humboldt Interior,CA105,Humboldt,06023,P,nw,41.0243,-124.0956
+CA,106,EKA,Southern Humboldt Interior,CA106,Humboldt,06023,P,nw,41.0243,-124.0956
+CA,107,EKA,Northern Trinity,CA107,Trinity,06105,P,nw,40.7088,-123.1110
+CA,108,EKA,Southern Trinity,CA108,Trinity,06105,P,nw,40.7088,-123.1110
+CA,109,EKA,Mendocino Coast,CA109,Mendocino,06045,P,nw,39.3778,-123.7271
+CA,110,EKA,Northwestern Mendocino Interior,CA110,Mendocino,06045,P,nw,39.6359,-123.4371
+CA,111,EKA,Northeastern Mendocino Interior,CA111,Mendocino,06045,P,nw,39.7603,-123.1396
+CA,112,EKA,Southwestern Mendocino Interior,CA112,Mendocino,06045,P,nw,39.1561,-123.4915
+CA,113,EKA,Southeastern Mendocino Interior,CA113,Mendocino,06045,P,nw,39.0904,-123.1953
+CA,114,EKA,Northern Lake County,CA114,Lake,06033,P,cc,39.3619,-122.8628
+CA,115,EKA,Southern Lake County,CA115,Lake,06033,P,cc,38.9779,-122.7022
+CA,179,HNX,West Side Hills ,CA179,Kern,06029,P,cc,36.1223,-120.3373
+CA,179,HNX,West Side Hills ,CA179,Kings,06031,P,cc,36.1223,-120.3373
+CA,179,HNX,West Side Hills ,CA179,Fresno,06019,P,cc,36.1223,-120.3373
+CA,179,HNX,West Side Hills ,CA179,Merced,06047,P,cc,36.1223,-120.3373
+CA,180,HNX,San Joaquin Confluence ,CA180,Madera,06039,P,cc,37.0252,-120.6493
+CA,180,HNX,San Joaquin Confluence ,CA180,Merced,06047,P,cc,37.0252,-120.6493
+CA,181,HNX,Merced and Madera ,CA181,Madera,06039,P,cc,37.2220,-120.2341
+CA,181,HNX,Merced and Madera ,CA181,Merced,06047,P,cc,37.2220,-120.2341
+CA,182,HNX,Western San Joaquin Valley ,CA182,Kings,06031,P,cc,36.3334,-120.1552
+CA,182,HNX,Western San Joaquin Valley ,CA182,Fresno,06019,P,cc,36.3334,-120.1552
+CA,183,HNX,Foggy Bottom ,CA183,Kings,06031,P,cc,36.3980,-119.7833
+CA,183,HNX,Foggy Bottom ,CA183,Fresno,06019,P,cc,36.3980,-119.7833
+CA,183,HNX,Foggy Bottom ,CA183,Tulare,06107,P,cc,36.3980,-119.7833
+CA,184,HNX,Fresno ,CA184,Fresno,06019,P,cc,36.7600,-119.6055
+CA,185,HNX,Tulare County ,CA185,Tulare,06107,P,cc,36.1982,-119.1825
+CA,186,HNX,Southern Kings County ,CA186,Kings,06031,P,cc,35.9039,-119.5737
+CA,187,HNX,Western San Joaquin Valley in Kern County,CA187,Kern,06029,P,cc,35.5741,-119.5325
+CA,188,HNX,Eastern San Joaquin Valley in Kern County,CA188,Kern,06029,P,cc,35.6266,-119.1173
+CA,189,HNX,Bakersfield ,CA189,Kern,06029,P,cc,35.2183,-119.0645
+CA,190,HNX,Central Sierra Foothills ,CA190,Mariposa,06043,P,cc,37.2843,-119.7374
+CA,190,HNX,Central Sierra Foothills ,CA190,Madera,06039,P,cc,37.2843,-119.7374
+CA,190,HNX,Central Sierra Foothills ,CA190,Fresno,06019,P,cc,37.2843,-119.7374
+CA,191,HNX,Southern Sierra Foothills ,CA191,Tulare,06107,P,cc,36.0994,-118.8844
+CA,191,HNX,Southern Sierra Foothills ,CA191,Kings,06031,P,cc,36.0994,-118.8844
+CA,192,HNX,Central Sierra ,CA192,Mariposa,06043,P,cc,37.6184,-119.3678
+CA,192,HNX,Central Sierra ,CA192,Madera,06039,P,cc,37.6184,-119.3678
+CA,192,HNX,Central Sierra ,CA192,Fresno,06019,P,cc,37.6184,-119.3678
+CA,193,HNX,North Kings River ,CA193,Madera,06039,P,cc,37.0579,-118.9401
+CA,193,HNX,North Kings River ,CA193,Fresno,06019,P,cc,37.0579,-118.9401
+CA,194,HNX,Sequoia Kings ,CA194,Fresno,06019,P,cc,36.4233,-118.5603
+CA,194,HNX,Sequoia Kings ,CA194,Tulare,06107,P,cc,36.4233,-118.5603
+CA,194,HNX,Sequoia Kings ,CA194,Kern,06029,P,cc,36.4233,-118.5603
+CA,195,HNX,Lake Isabella ,CA195,Tulare,06107,P,cc,35.7380,-118.3411
+CA,195,HNX,Lake Isabella ,CA195,Kern,06029,P,cc,35.7380,-118.3411
+CA,196,HNX,Tehachapi Area ,CA196,Kern,06029,P,cc,35.3190,-118.4019
+CA,197,HNX,Fort Tejon ,CA197,Kern,06029,P,cc,34.9451,-119.0187
+CA,198,HNX,Indian Wells Valley ,CA198,Kern,06029,P,cc,35.6271,-117.8015
+CA,199,HNX,Kern County Desert ,CA199,Kern,06029,P,cc,35.0767,-118.0156
+CA,505,MTR,Coastal North Bay Including Point Reyes National Seashore,CA505,Marin,06041,P,ww,38.2364,-122.9543
+CA,505,MTR,Coastal North Bay Including Point Reyes National Seashore,CA505,Sonoma,06097,P,ww,38.2364,-122.9543
+CA,506,MTR,North Bay Interior Valleys,CA506,Marin,06041,P,ww,38.3698,-122.6419
+CA,506,MTR,North Bay Interior Valleys,CA506,Napa,06055,P,ww,38.3698,-122.6419
+CA,506,MTR,North Bay Interior Valleys,CA506,Sonoma,06097,P,ww,38.3698,-122.6419
+CA,507,MTR,North Bay Mountains,CA507,Marin,06041,P,ww,38.5515,-122.6939
+CA,507,MTR,North Bay Mountains,CA507,Napa,06055,P,ww,38.5515,-122.6939
+CA,507,MTR,North Bay Mountains,CA507,Sonoma,06097,P,ww,38.5515,-122.6939
+CA,508,MTR,San Francisco Bay Shoreline,CA508,Alameda,06001,P,ww,37.5938,-122.1650
+CA,508,MTR,San Francisco Bay Shoreline,CA508,Contra Costa,06013,P,ww,37.5938,-122.1650
+CA,508,MTR,San Francisco Bay Shoreline,CA508,San Mateo,06081,P,ww,37.5938,-122.1650
+CA,508,MTR,San Francisco Bay Shoreline,CA508,Santa Clara,06085,P,ww,37.5938,-122.1650
+CA,509,MTR,San Fransisco Peninsula Coast,CA509,San Mateo,06081,P,ww,37.3740,-122.3923
+CA,509,MTR,San Fransisco Peninsula Coast,CA509,Santa Cruz,06087,P,ww,37.3740,-122.3923
+CA,510,MTR,East Bay Interior Valleys,CA510,Alameda,06001,P,ww,37.8803,-121.8801
+CA,510,MTR,East Bay Interior Valleys,CA510,Contra Costa,06013,P,ww,37.8803,-121.8801
+CA,511,MTR,East Bay Hills and the Diablo Range,CA511,Alameda,06001,P,ww,37.4504,-121.6591
+CA,511,MTR,East Bay Hills and the Diablo Range,CA511,Contra Costa,06013,P,ww,37.4504,-121.6591
+CA,511,MTR,East Bay Hills and the Diablo Range,CA511,Santa Clara,06085,P,ww,37.4504,-121.6591
+CA,512,MTR,Santa Cruz Mountains,CA512,San Mateo,06081,P,ww,37.1726,-122.0400
+CA,512,MTR,Santa Cruz Mountains,CA512,Santa Clara,06085,P,ww,37.1726,-122.0400
+CA,512,MTR,Santa Cruz Mountains,CA512,Santa Cruz,06087,P,ww,37.1726,-122.0400
+CA,513,MTR,Santa Clara Valley Including San Jose,CA513,Santa Clara,06085,P,ww,37.2196,-121.7971
+CA,516,MTR,Southern Salinas Valley/Arroyo Seco and Lake San Antonio,CA516,Monterey,06053,P,ww,36.1014,-121.0546
+CA,517,MTR,Santa Lucia Mountains and Los Padres National Forest,CA517,Monterey,06053,P,ww,36.1606,-121.4188
+CA,518,MTR,Mountains Of San Benito County And Interior Monterey County Including Pinnacles National Monument,CA518,Monterey,06053,P,ww,36.3718,-120.9214
+CA,518,MTR,Mountains Of San Benito County And Interior Monterey County Including Pinnacles National Monument,CA518,San Benito,06069,P,ww,36.3718,-120.9214
+CA,519,VEF,Eastern Sierra Slopes of Inyo County,CA519,Inyo,06027,P,ee,36.8269,-118.3410
+CA,520,VEF,Owens Valley,CA520,Inyo,06027,P,ee,36.5133,-118.0127
+CA,521,VEF,White Mountains of Inyo County,CA521,Inyo,06027,P,ee,37.0104,-118.0388
+CA,522,VEF,Death Valley National Park,CA522,Inyo,06027,P,ee,36.4199,-117.1006
+CA,523,VEF,Western Mojave Desert,CA523,San Bernardino,06071,P,ss,35.3053,-117.0005
+CA,524,VEF,Eastern Mojave Desert Including the Mojave National Preserve,CA524,San Bernardino,06071,P,,35.1398,-115.7069
+CA,525,VEF,Morongo Basin,CA525,San Bernardino,06071,P,ss,34.3424,-116.0947
+CA,526,VEF,Cadiz Basin,CA526,San Bernardino,06071,P,ss,34.3849,-115.0956
+CA,527,VEF,San Bernadino County-Upper Colorado River Valley,CA527,San Bernardino,06071,P,ss,34.4988,-114.5011
+CA,528,MTR,Northern Salinas Valley/Hollister Valley and Carmel Valley,CA528,Monterey,06053,P,ww,36.6769,-121.5047
+CA,528,MTR,Northern Salinas Valley/Hollister Valley and Carmel Valley,CA528,San Benito,06069,P,ww,36.6769,-121.5047
+CA,529,MTR,Northern Monterey Bay,CA529,Santa Cruz,06087,P,ww,36.9757,-121.9005
+CA,530,MTR,Southern Monterey Bay and Big Sur Coast,CA530,Monterey,06053,P,ww,36.6165,-121.7566
+CA,547,LOX,Los Angeles County San Fernando Valley,CA547,Los Angeles,06037,P,sw,34.2043,-118.4799
+CA,548,LOX,Los Angeles County San Gabriel Valley,CA548,Los Angeles,06037,P,sw,34.0657,-117.9738
+CA,549,LOX,San Miguel and Santa Rosa Islands,CA549,Santa Barbara,06083,P,sw,33.9774,-120.1462
+CA,550,LOX,Santa Cruz and Anacapa Islands,CA550,Santa Barbara,06083,P,sw,34.0138,-119.7416
+CA,552,SGX,Orange County Coastal,CA552,Orange,06059,P,sw,33.7028,-117.7899
+CA,554,SGX,Orange County Inland,CA554,Orange,06059,P,sw,0.0000,0.0000
+CA,560,PSR,Joshua Tree NP West,CA560,San Bernardino,06071,P,ss,33.9359,-116.0847
+CA,561,PSR,Joshua Tree NP East,CA561,San Bernardino,06071,P,ss,33.9564,-115.6533
+CA,562,PSR,Imperial County Southwest,CA562,Imperial,06025,P,se,32.8129,-116.0390
+CA,563,PSR,Salton Sea,CA563,Imperial,06025,P,se,33.3091,-115.8096
+CA,563,PSR,Salton Sea,CA563,Riverside,06065,P,se,33.3091,-115.8096
+CA,564,PSR,Chuckwalla Mountains,CA564,Imperial,06025,P,se,33.3715,-115.2724
+CA,564,PSR,Chuckwalla Mountains,CA564,Riverside,06065,P,se,33.3715,-115.2724
+CA,565,PSR,Imperial County Southeast,CA565,Imperial,06025,P,se,32.8860,-114.9902
+CA,566,PSR,Imperial County West,CA566,Imperial,06025,P,se,32.9908,-115.9008
+CA,567,PSR,Imperial Valley,CA567,Imperial,06025,P,se,32.9245,-115.5185
+CA,568,PSR,Chiriaco Summit,CA568,Riverside,06065,P,ss,33.6785,-115.6832
+CA,569,PSR,Palo Verde Valley,CA569,Imperial,06025,P,se,33.4256,-114.6527
+CA,569,PSR,Palo Verde Valley,CA569,Riverside,06065,P,se,33.4256,-114.6527
+CA,570,PSR,Chuckwalla Valley,CA570,Riverside,06065,P,se,33.8125,-115.0182
